@@ -1,4 +1,4 @@
-# Vanilla-JS-SPA_CalorieTracker
+# Vanilla JS SPA CalorieTracker
 1) Single Page Application with using only vanilla JS no framework.
 2) Data storage using - LocalStorage
 3) Materialize CSS for fast UI creation.
